@@ -2,7 +2,7 @@
 
 :books: I’m currently learning Data Science and Machine Learning.
 
-:pencil: I’m blogging on [DEV Community](https://dev.to/ufukeskici)
+:pencil: I’m blogging on [Hashnode](https://ufukeskici.hashnode.dev/)
 
 ### Connect with me: 
 <a href="mailto: ufukeskici@gmail.com" target="_blank"><img align="left" alt="Ufuk Eskici | Gmail" width="36px" src="https://img.icons8.com/fluency/96/000000/gmail-new.png" /></a>
