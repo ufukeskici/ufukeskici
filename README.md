@@ -1,11 +1,31 @@
-### Hi there!
+Hi 👋 My name is Ufuk
+=====================
 
-:books: I’m currently learning Data Science and Machine Learning.
+Data Scientist and Machine Learning Engineer
+--------------------------------------------
 
-:pencil: I’m blogging on [ufukeskici.net](https://www.ufukeskici.net)
+* 🌍  I'm based in Turkey
+* 🖥️  See my portfolio at [ufukeskici.net](http://www.ufukeskici.net)
+* ✉️  You can contact me at [ufukeskici@gmail.com](mailto:ufukeskici@gmail.com)
+* 🧠  I'm learning Machine Learning, Deep Learning
+* 🤝  I'm open to collaborating on Data Science
 
-### Connect with me: 
-<a href="mailto: ufukeskici@gmail.com" target="_blank"><img align="left" alt="Ufuk Eskici | Gmail" width="36px" src="https://img.icons8.com/fluency/96/000000/gmail-new.png" /></a>
-<a href="https://linkedin.com/in/ufukeskici" target="_blank"><img align="left" alt="Ufuk Eskici | LinkedIn" width="36px" src="https://img.icons8.com/color/96/000000/linkedin.png" /></a>
-<a href="https://instagram.com/ufukeskici.ai" target="_blank"><img align="left" alt="Ufuk Eskici | Instagram" width="36px" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" /></a>
-<a href="https://twitter.com/ufukeskici" target="_blank"><img align="left" alt="Ufuk Eskici | Twitter" width="36px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" /></a>
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/ufukeskici" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://ufukeskici" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ufukeskici.ai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ufukeskici" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ufukeskici" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ufukeskici"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ufukeskici&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
